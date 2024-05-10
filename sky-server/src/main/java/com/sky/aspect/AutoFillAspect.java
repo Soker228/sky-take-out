@@ -9,6 +9,8 @@ import org.springframework.stereotype.Component;
 
 /**
  * 自定义切面，实现公共字段自动填充处理逻辑
+ * (切面所在的类叫切面类,注解 @Aspect)
+ * 切面 = 切入点表达式 + 通知
  */
 @Aspect
 @Component
