@@ -12,3 +12,8 @@ sky:
     access-key-id: LTAI5t7Gz9zf2eGB4M7sfjuS
     access-key-secret: JF17U46VqTfgNCyXvJMoar9kkHnLFA
     bucket-name: web-tlias-itheima1
+
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
